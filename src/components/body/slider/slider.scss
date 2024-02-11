@@ -1,0 +1,14 @@
+.slider {
+	min-height: 600px;
+
+	&__up-block {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	&__down-block {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+}

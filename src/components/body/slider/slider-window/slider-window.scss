@@ -3,6 +3,9 @@
 	border-spacing: 1px;
 	border-color: black;
 	border-radius: 5px;
-	width: 80%;
-	min-height: 500px;
+	width: 1200px;
+	min-height: 600px;
+	max-height: 600px;
+	display: flex;
+	overflow: hidden;
 }

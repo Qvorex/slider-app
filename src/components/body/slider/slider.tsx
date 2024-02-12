@@ -4,7 +4,6 @@ import { Button } from '../../ui/button/button';
 import { NavigationCircle } from '../../ui/button/navigation-circle';
 import './slider.scss'
 
-
 export function Slider() {
 	return (
     <div className='slider'>

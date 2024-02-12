@@ -1,7 +1,7 @@
 export function Button() {
 	return (
-		<div className="button">
+		<button className="button">
 			Кнопка
-		</div>
+		</button>
   );
 }

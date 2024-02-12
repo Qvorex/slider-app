@@ -1,7 +1,7 @@
 export function ArrowButton() {
 	return (
-		<div className="arrow-button">
+		<button className="arrow-button">
 			Стрелка
-		</div>
+		</button>
   );
 }

@@ -3,7 +3,7 @@ export interface IGettingImages {
 	url: string;
 	width: number;
 	height: number;
-	breeds?: IBreedsImage;
+	breeds: IBreedsImage[];
 }
 
 export interface IBreedsImage {

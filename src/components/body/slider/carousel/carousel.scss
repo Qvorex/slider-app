@@ -1,8 +1,6 @@
 .photo-container {
 	min-width: 1200px;
 	max-height: 600px;
-	display: flex;
-	justify-content: center;
 	background-color: gray;
 }
 
@@ -12,6 +10,10 @@
 	bottom: 0;
 	background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
 	color: aliceblue;
+
+	h1, h3 {
+		margin: 10px 30px;
+	}
 }
 
 .img-photo {
